@@ -13,9 +13,10 @@ Human Parsing
 ======
 Human parsing, which aims at decomposing a human-centric image into the regions of semantic parts, is a challenging dense prediction task. Meanwhile, it is a useful technology in many image processing and information retrieval tasks.
 
-Person Image Synthesising
+Person Image Synthesis
 =======
-Person image synthesis with controllable body poses and appearances is an essential and widely applicable task with enormous potential in various fields, including virtual try-on, image editing, video production, and person re-identification.
+Person image synthesis with controllable body poses and appearances is an essential and widely applicable task with enormous potential in various fields, including virtual try-on, image editing, video production, and person re-identification. 
+The goal of this task is to explicitly manipulate the body posture and appearance of the source individual picture, generating a photo-realistic person image that aligns with user expectations
 
 Operating System
 =======
