@@ -19,7 +19,7 @@ repository               : "lovemusiceb/lovemusiceb.github.io" # GitHub 仓库�
 # Site Author - 控制侧边栏中显示的作者内容。如果字段为空，相应的图标和链接将不会显示。可以通过编辑 /_includes/author-profile.html 进一步自定义。
 author:
   # Biographic information
-  avatar           : "profile.png"    # 头像的图片文件名
+  avatar           : "IMG_8044.JPG"    # 头像的图片文件名
   name             : "Enbo Huang"
   pronouns         : "he/him"  
   bio              : "A Ph.D in Computer Science"
