@@ -14,10 +14,10 @@ Human Parsing
 Human parsing, which aims at decomposing a human-centric image into the regions of semantic parts, is a challenging dense prediction task. Meanwhile, it is a useful technology in many image processing and information retrieval tasks.
 
 Person Image Synthesising
-======
+=======
 Person image synthesis with controllable body poses and appearances is an essential and widely applicable task with enormous potential in various fields, including virtual try-on, image editing, video production, and person re-identification.
 
 Operating System
-------
+=======
 An Operating System (OS) is system software that manages hardware resources and provides essential services for computer programs, acting as an intermediary between users and the machine. It handles tasks like process scheduling, memory management, file system organization, and I/O operations to ensure efficient and secure system functionality.
 
