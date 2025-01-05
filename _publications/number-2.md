@@ -1,7 +1,7 @@
 ---
 title: "TAO: A TRILATERAL AWARENESS OPERATION FOR HUMAN PARSING"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/number-2
 excerpt: 'Human parsing, which segments a human image into semantic regions, is a fundamental task in human-centric analysis. Recently, numerous human parsing approaches based on convolutional neural networks (CNNs) have made significant
 progress. However, these models still suffer the high time complexity and poor efficiency issues, since they always introduce too many and complex hypothetical priors. Therefore, in this paper, we attempt to solve above issues by mining
