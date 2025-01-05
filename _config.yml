@@ -7,36 +7,34 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+locale                   : "en-US"     # 设置网站的区域和语言环境，这里为美国英语。
+title                    : "Enbo's homepage"  # 网站的标题
+title_separator          : "-"            # 标题之间的分隔符
+name                     : &name "Enbo Huang"  # 定义一个别名
+description              : &description "personal description"  # 定义一个别名
+url                      : https://lovemusiceb.github.io  # https://academicpages.github.io # 网站的基础 URL，包括主机名和协议
+baseurl                  : "" # the subpath of your site, e.g. "/blog"   # 网站的子路径，网站部署在子目录下
+repository               : "lovemusiceb/lovemusiceb.github.io" # GitHub 仓库的路径，通常用于生成源代码链接等功能
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author - 控制侧边栏中显示的作者内容。如果字段为空，相应的图标和链接将不会显示。可以通过编辑 /_includes/author-profile.html 进一步自定义。
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile.png"    # 头像的图片文件名
+  name             : "Enbo Huang"
+  pronouns         : "he/him"  
+  bio              : "A Ph.D in Computer Science"
+  location         : "Nanning China"
+  employer         : "Nanning Normal University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hebscitech@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -49,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
