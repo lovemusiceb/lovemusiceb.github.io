@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "An overview of our proposed TAO module"
+excerpt: "This is an instance of the TAO module embedded in an Encoder-Decoder architecture (subfigure (b)). The TAO module has two components, i.e., Pre-Bilateral Awareness (PreBA) block (subfigure (a)) and Mixed Order Statistics Awareness (MOSA) block (subfigure (c)). The former one can sense the spatial and multiscale information from the input feature maps, and the latter one can model the channel relations of the former block outputs by using mixed-order statistics of the feature maps.<br/><img src='/images/P_fig1.pdf'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
