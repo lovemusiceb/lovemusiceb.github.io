@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"     # 设置网站的区域和语言环境，这里为美国英语。
-title                    : "Enbo's homepage"  # 网站的标题
+title                    : "Homepage"  # 网站的标题
 title_separator          : "-"            # 标题之间的分隔符
 name                     : &name "Enbo Huang"  # 定义一个别名
 description              : &description "personal description"  # 定义一个别名
